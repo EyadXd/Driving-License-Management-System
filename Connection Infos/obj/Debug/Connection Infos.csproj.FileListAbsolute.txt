@@ -1,0 +1,6 @@
+C:\Users\UNIX\source\repos\Connection Infos\bin\Debug\Connection Infos.dll
+C:\Users\UNIX\source\repos\Connection Infos\bin\Debug\Connection Infos.pdb
+C:\Users\UNIX\source\repos\Connection Infos\obj\Debug\Connection Infos.csproj.AssemblyReference.cache
+C:\Users\UNIX\source\repos\Connection Infos\obj\Debug\Connection Infos.csproj.CoreCompileInputs.cache
+C:\Users\UNIX\source\repos\Connection Infos\obj\Debug\Connection Infos.dll
+C:\Users\UNIX\source\repos\Connection Infos\obj\Debug\Connection Infos.pdb

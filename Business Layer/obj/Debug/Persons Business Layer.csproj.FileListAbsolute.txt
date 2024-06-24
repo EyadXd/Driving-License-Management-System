@@ -1,0 +1,11 @@
+C:\Users\UNIX\source\repos\Business Layer\obj\Debug\Persons Business Layer.csproj.AssemblyReference.cache
+C:\Users\UNIX\source\repos\Business Layer\obj\Debug\Persons Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\UNIX\source\repos\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\UNIX\source\repos\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\UNIX\source\repos\Business Layer\bin\Debug\Data Access Layer.dll
+C:\Users\UNIX\source\repos\Business Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\UNIX\source\repos\Business Layer\obj\Debug\Persons Business Layer.csproj.CopyComplete
+C:\Users\UNIX\source\repos\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\UNIX\source\repos\Business Layer\obj\Debug\Business Layer.pdb
+C:\Users\UNIX\source\repos\Business Layer\bin\Debug\Connection Infos.dll
+C:\Users\UNIX\source\repos\Business Layer\bin\Debug\Connection Infos.pdb

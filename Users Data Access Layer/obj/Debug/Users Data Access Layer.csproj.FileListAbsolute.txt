@@ -1,0 +1,9 @@
+C:\Users\UNIX\source\repos\Users Data Access Layer\bin\Debug\Users Data Access Layer.dll
+C:\Users\UNIX\source\repos\Users Data Access Layer\bin\Debug\Users Data Access Layer.pdb
+C:\Users\UNIX\source\repos\Users Data Access Layer\bin\Debug\Connection Infos.dll
+C:\Users\UNIX\source\repos\Users Data Access Layer\bin\Debug\Connection Infos.pdb
+C:\Users\UNIX\source\repos\Users Data Access Layer\obj\Debug\Users Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\UNIX\source\repos\Users Data Access Layer\obj\Debug\Users Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\UNIX\source\repos\Users Data Access Layer\obj\Debug\Users Data Access Layer.csproj.CopyComplete
+C:\Users\UNIX\source\repos\Users Data Access Layer\obj\Debug\Users Data Access Layer.dll
+C:\Users\UNIX\source\repos\Users Data Access Layer\obj\Debug\Users Data Access Layer.pdb

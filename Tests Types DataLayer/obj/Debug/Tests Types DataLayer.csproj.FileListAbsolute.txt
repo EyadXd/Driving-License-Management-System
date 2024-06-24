@@ -1,0 +1,9 @@
+C:\Users\UNIX\source\repos\Tests Types DataLayer\bin\Debug\Tests Types DataLayer.dll
+C:\Users\UNIX\source\repos\Tests Types DataLayer\bin\Debug\Tests Types DataLayer.pdb
+C:\Users\UNIX\source\repos\Tests Types DataLayer\bin\Debug\Connection Infos.dll
+C:\Users\UNIX\source\repos\Tests Types DataLayer\bin\Debug\Connection Infos.pdb
+C:\Users\UNIX\source\repos\Tests Types DataLayer\obj\Debug\Tests Types DataLayer.csproj.AssemblyReference.cache
+C:\Users\UNIX\source\repos\Tests Types DataLayer\obj\Debug\Tests Types DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\UNIX\source\repos\Tests Types DataLayer\obj\Debug\Tests Types DataLayer.csproj.CopyComplete
+C:\Users\UNIX\source\repos\Tests Types DataLayer\obj\Debug\Tests Types DataLayer.dll
+C:\Users\UNIX\source\repos\Tests Types DataLayer\obj\Debug\Tests Types DataLayer.pdb

@@ -1,0 +1,9 @@
+C:\Users\UNIX\source\repos\Applications DataAccess Layer\bin\Debug\Applications DataAccess Layer.dll
+C:\Users\UNIX\source\repos\Applications DataAccess Layer\bin\Debug\Applications DataAccess Layer.pdb
+C:\Users\UNIX\source\repos\Applications DataAccess Layer\bin\Debug\Connection Infos.dll
+C:\Users\UNIX\source\repos\Applications DataAccess Layer\bin\Debug\Connection Infos.pdb
+C:\Users\UNIX\source\repos\Applications DataAccess Layer\obj\Debug\ApplicationsTyps DataAccess Layer.csproj.AssemblyReference.cache
+C:\Users\UNIX\source\repos\Applications DataAccess Layer\obj\Debug\ApplicationsTyps DataAccess Layer.csproj.CoreCompileInputs.cache
+C:\Users\UNIX\source\repos\Applications DataAccess Layer\obj\Debug\ApplicationsTyps DataAccess Layer.csproj.CopyComplete
+C:\Users\UNIX\source\repos\Applications DataAccess Layer\obj\Debug\Applications DataAccess Layer.dll
+C:\Users\UNIX\source\repos\Applications DataAccess Layer\obj\Debug\Applications DataAccess Layer.pdb

@@ -1,0 +1,11 @@
+C:\Users\UNIX\source\repos\Countries Business Layer\bin\Debug\Countries Business Layer.dll
+C:\Users\UNIX\source\repos\Countries Business Layer\bin\Debug\Countries Business Layer.pdb
+C:\Users\UNIX\source\repos\Countries Business Layer\bin\Debug\Countries Data Access Layer.dll
+C:\Users\UNIX\source\repos\Countries Business Layer\bin\Debug\Connection Infos.dll
+C:\Users\UNIX\source\repos\Countries Business Layer\bin\Debug\Countries Data Access Layer.pdb
+C:\Users\UNIX\source\repos\Countries Business Layer\bin\Debug\Connection Infos.pdb
+C:\Users\UNIX\source\repos\Countries Business Layer\obj\Debug\Countries Business Layer.csproj.AssemblyReference.cache
+C:\Users\UNIX\source\repos\Countries Business Layer\obj\Debug\Countries Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\UNIX\source\repos\Countries Business Layer\obj\Debug\Countries Business Layer.csproj.CopyComplete
+C:\Users\UNIX\source\repos\Countries Business Layer\obj\Debug\Countries Business Layer.dll
+C:\Users\UNIX\source\repos\Countries Business Layer\obj\Debug\Countries Business Layer.pdb

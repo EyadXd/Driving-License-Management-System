@@ -1,0 +1,13 @@
+C:\Users\UNIX\source\repos\clsGlobalLibrary\bin\Debug\clsGlobalLibrary.dll
+C:\Users\UNIX\source\repos\clsGlobalLibrary\bin\Debug\clsGlobalLibrary.pdb
+C:\Users\UNIX\source\repos\clsGlobalLibrary\bin\Debug\Users Business Layer.dll
+C:\Users\UNIX\source\repos\clsGlobalLibrary\bin\Debug\Users Data Access Layer.dll
+C:\Users\UNIX\source\repos\clsGlobalLibrary\bin\Debug\Connection Infos.dll
+C:\Users\UNIX\source\repos\clsGlobalLibrary\bin\Debug\Users Business Layer.pdb
+C:\Users\UNIX\source\repos\clsGlobalLibrary\bin\Debug\Users Data Access Layer.pdb
+C:\Users\UNIX\source\repos\clsGlobalLibrary\bin\Debug\Connection Infos.pdb
+C:\Users\UNIX\source\repos\clsGlobalLibrary\obj\Debug\clsGlobalLibrary.csproj.AssemblyReference.cache
+C:\Users\UNIX\source\repos\clsGlobalLibrary\obj\Debug\clsGlobalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\UNIX\source\repos\clsGlobalLibrary\obj\Debug\clsGlobalLibrary.csproj.CopyComplete
+C:\Users\UNIX\source\repos\clsGlobalLibrary\obj\Debug\clsGlobalLibrary.dll
+C:\Users\UNIX\source\repos\clsGlobalLibrary\obj\Debug\clsGlobalLibrary.pdb

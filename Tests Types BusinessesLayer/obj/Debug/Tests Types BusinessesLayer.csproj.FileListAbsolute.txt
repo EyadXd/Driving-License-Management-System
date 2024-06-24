@@ -1,0 +1,11 @@
+C:\Users\UNIX\source\repos\Tests Types BusinessesLayer\obj\Debug\Tests Types BusinessesLayer.csproj.AssemblyReference.cache
+C:\Users\UNIX\source\repos\Tests Types BusinessesLayer\obj\Debug\Tests Types BusinessesLayer.csproj.CoreCompileInputs.cache
+C:\Users\UNIX\source\repos\Tests Types BusinessesLayer\bin\Debug\Tests Types BusinessesLayer.dll
+C:\Users\UNIX\source\repos\Tests Types BusinessesLayer\bin\Debug\Tests Types BusinessesLayer.pdb
+C:\Users\UNIX\source\repos\Tests Types BusinessesLayer\bin\Debug\Tests Types DataLayer.dll
+C:\Users\UNIX\source\repos\Tests Types BusinessesLayer\bin\Debug\Connection Infos.dll
+C:\Users\UNIX\source\repos\Tests Types BusinessesLayer\bin\Debug\Tests Types DataLayer.pdb
+C:\Users\UNIX\source\repos\Tests Types BusinessesLayer\bin\Debug\Connection Infos.pdb
+C:\Users\UNIX\source\repos\Tests Types BusinessesLayer\obj\Debug\Tests Types BusinessesLayer.csproj.CopyComplete
+C:\Users\UNIX\source\repos\Tests Types BusinessesLayer\obj\Debug\Tests Types BusinessesLayer.dll
+C:\Users\UNIX\source\repos\Tests Types BusinessesLayer\obj\Debug\Tests Types BusinessesLayer.pdb
